@@ -1,3 +1,3 @@
-##https://www.hackerrank.com/challenges/japanese-cities-attributes/
+--https://www.hackerrank.com/challenges/japanese-cities-attributes/
 
 select * from CITY where COUNTRYCODE = 'JPN'
