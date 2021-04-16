@@ -1,3 +1,3 @@
-#https://www.hackerrank.com/challenges/select-all-sql/
+--https://www.hackerrank.com/challenges/select-all-sql/
 
 select * from CITY
